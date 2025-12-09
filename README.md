@@ -19,24 +19,7 @@ Includes database seeding, environment variables, and search functionality.
 
 ## 📁 Project Structure
 
-foodie/
-│
-├── src/
-│ ├── config/
-│ │ └── db.js
-│ ├── controllers/
-│ ├── services/
-│ ├── routes/
-│ ├── seeder/
-│ │ ├── seed.js
-│ │ ├── restaurants.json
-│ │ ├── menu_items.json
-│ │ └── orders.json
-│ └── app.js
-│
-├── package.json
-├── README.md
-└── .env
+<pre> ``` foodie/ │ ├── src/ │ ├── config/ │ │ └── db.js │ ├── controllers/ │ ├── services/ │ ├── routes/ │ ├── seeder/ │ │ ├── seed.js │ │ ├── restaurants.json │ │ ├── menu_items.json │ │ └── orders.json │ └── app.js │ ├── package.json ├── README.md └── .env ``` </pre>
 
  
 ---
@@ -48,12 +31,12 @@ foodie/
 git clone https://github.com/your-username/foodie.git
 cd foodie
 
-2️⃣ Install dependencies
-
+### 2️⃣ Install dependencies
+```bash
 npm install
 
-3️⃣ Add environment variables
-
+### 3️⃣ Add environment variables
+```bash
 Create a .env file:
 
 DB_HOST=localhost
@@ -63,32 +46,39 @@ DB_NAME=food
 DB_PORT=3306
 PORT=3000
 
-4️⃣ Create the database
-
+### 4️⃣ Create the database
+```bash
 CREATE DATABASE foodie;
 USE foodie;
 
-5️⃣ Seed the database
-
+### 5️⃣ Seed the database
+```bash
 npm run seed
 
-6️⃣ Start the server
-
+### 6️⃣ Start the server
+```bash
 npm start
 
 Now the API runs at:
 http://localhost:3000
 
-🍽️ Restaurants
+---
+
+## Endpoints
+
+### 🍽️ Restaurants
+```bash
 Get all restaurants with dishes
 
 GET /restaurants/with-dishes
 
-🍛 Menu Items (Dishes)
+### 🍛 Menu Items (Dishes)
+```bash
 Search dishes
 
 GET /search/dishes?name=biryani&minPrice=150&maxPrice=300
 
+---
 
 🧱 Tech Stack
 Node.js
