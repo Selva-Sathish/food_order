@@ -1,5 +1,5 @@
 # 🍽️ Foodie API – Node.js + Express + MySQL
-A clean and well-structured backend API for managing restaurants, menu items, and simple orders (one item per order). Includes database seeding, environment variables, and search functionality.
+A clean and well-structured backend API for managing restaurants, menu items, and simple orders.
 
 ---
 
