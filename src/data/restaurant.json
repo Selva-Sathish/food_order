@@ -1,0 +1,627 @@
+[
+    {
+        "name": "Ss Hyderabad Biryani",
+        "location": "Chinese, Biryani, South Indian",
+        "rating": 4.6
+    },
+    {
+        "name": "Dindigul Thalappakatti - Since 1957",
+        "location": "Kilpauk",
+        "rating": 4.3
+    },
+    {
+        "name": "RNR Biryani - Taste Of 1953",
+        "location": "Biryani, Barbecue, South Indian, Chinese, North Indian",
+        "rating": 4.2
+    },
+    {
+        "name": "Nandhana Palace",
+        "location": "Parrys",
+        "rating": 4.4
+    },
+    {
+        "name": "Samco",
+        "location": "Biryani, South Indian",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel Farook",
+        "location": "Egmore",
+        "rating": 4.5
+    },
+    {
+        "name": "Anjappar",
+        "location": "Andhra, Biryani, South Indian",
+        "rating": 4.3
+    },
+    {
+        "name": "Buhari",
+        "location": "Mount Road",
+        "rating": 4.4
+    },
+    {
+        "name": "Khalids Biriyani",
+        "location": "Biryani, South Indian, Chinese, Arabian, Kerala, Mughlai",
+        "rating": 4.1
+    },
+    {
+        "name": "Al faham",
+        "location": "Teynampet",
+        "rating": 4.2
+    },
+    {
+        "name": "Chidambaram New Moorthy Cafe",
+        "location": "Biryani, Chinese, Arabian, Tandoor, Grill, Seafood, Indian",
+        "rating": 4.4
+    },
+    {
+        "name": "Mount Road Bilal - Kebabs And Biryani",
+        "location": "Purasawalkam",
+        "rating": 4.6
+    },
+    {
+        "name": "Moonlight Takeaway & Delivery",
+        "location": "Chettinad, Biryani, South Indian, Chinese, Grill, Seafood, North Indian, Desserts, Beverages, Sweets",
+        "rating": 4.1
+    },
+    {
+        "name": "Mani'S Dum Biryani",
+        "location": "George Town",
+        "rating": 4.6
+    },
+    {
+        "name": "Waah!! Hyderabadi",
+        "location": "Biryani, Chinese",
+        "rating": 4.3
+    },
+    {
+        "name": "Nazeer Biryani & Bc",
+        "location": "George Town",
+        "rating": 4.1
+    },
+    {
+        "name": "Sharief Bhai Biryani",
+        "location": "Biryani",
+        "rating": 3.8
+    },
+    {
+        "name": "CHILLI MALLI",
+        "location": "T Nagar",
+        "rating": 4.5
+    },
+    {
+        "name": "Pulusu Ruchulu",
+        "location": "South Indian, Arabian, Chinese, Biryani",
+        "rating": 4.3
+    },
+    {
+        "name": "The Combo Deals by Hotel Rivera",
+        "location": "Vepery",
+        "rating": 1.8
+    },
+    {
+        "name": "Thalaiva Biryani",
+        "location": "South Indian, Chettinad, Biryani, Chinese, North Indian, Desserts",
+        "rating": 3.9
+    },
+    {
+        "name": "Mirchi Express",
+        "location": "Anna Nagar",
+        "rating": 4.3
+    },
+    {
+        "name": "Honest Bowl",
+        "location": "Chinese, Biryani, Desserts, Arabian, Beverages",
+        "rating": 4.5
+    },
+    {
+        "name": "Sri Bala Bhavan",
+        "location": "Thousand Lights",
+        "rating": 4.5
+    },
+    {
+        "name": "The Good Bowl",
+        "location": "Indian, Chinese, Tandoor",
+        "rating": 4.3
+    },
+    {
+        "name": "HOTEL DECCAN",
+        "location": "T. Nagar",
+        "rating": 4.4
+    },
+    {
+        "name": "Veg Darbar by Behrouz Biryani",
+        "location": "South Indian",
+        "rating": 4.4
+    },
+    {
+        "name": "Riyas Biriyani",
+        "location": "Triplicane",
+        "rating": 4.1
+    },
+    {
+        "name": "The Biryani Life",
+        "location": "Biryani, Chinese",
+        "rating": "4 • "
+    },
+    {
+        "name": "Virudhunagar Briyani",
+        "location": "Annanagar",
+        "rating": 4.3
+    },
+    {
+        "name": "Wendy's Flavor Fresh Burgers",
+        "location": "Biryani",
+        "rating": "4 • "
+    },
+    {
+        "name": "The Indian Grill",
+        "location": "Nazeer Biryani & Bc",
+        "rating": "4 • "
+    },
+    {
+        "name": "AMBUR STAR BRIYANI",
+        "location": "Biryani, shawarma, Kebabs, Mughlai, Arabian, rolls, Street Food, Tea, Desserts, Beverages",
+        "rating": 4.5
+    },
+    {
+        "name": "NELLAI DARBAR",
+        "location": "Purasaiwalkam",
+        "rating": 4.4
+    },
+    {
+        "name": "Hotel Paradise",
+        "location": "Biryani, South Indian",
+        "rating": 4.3
+    },
+    {
+        "name": "J S Malaysian Fast Food",
+        "location": "Egmore",
+        "rating": 4.1
+    },
+    {
+        "name": "Chettinese Fast Food",
+        "location": "Andhra, Biryani, Chettinad, South Indian, Desserts, Beverages",
+        "rating": 4.6
+    },
+    {
+        "name": "Buhari Vintage Hotel - Kilpauk",
+        "location": "Anna Nagar",
+        "rating": 4.6
+    },
+    {
+        "name": "Hafsa Kitchen Home Made",
+        "location": "Chinese, Biryani",
+        "rating": 4.1
+    },
+    {
+        "name": "Kalyana Briyani and Fast Food",
+        "location": "Nungambakkam",
+        "rating": 3.7
+    },
+    {
+        "name": "Basheer bai briyani",
+        "location": "Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, Desserts, Beverages",
+        "rating": 4.1
+    },
+    {
+        "name": "Triplicane Mubarak Biriyani & Catering",
+        "location": "Purusaiwalkam",
+        "rating": 2.4
+    },
+    {
+        "name": "Pandia's Express",
+        "location": "Biryani, South Indian, Chinese, Fast Food, Pizzas, Burgers, dessert, Beverages",
+        "rating": 4.1
+    },
+    {
+        "name": "KOMBOZZ by Thalappakatti",
+        "location": "Egmore",
+        "rating": 4.3
+    },
+    {
+        "name": "Kebab Wala",
+        "location": "North Indian, High Protein, Biryani",
+        "rating": 3.5
+    },
+    {
+        "name": "Hotel sri poneethai",
+        "location": "Purusaiwalkam",
+        "rating": 4.3
+    },
+    {
+        "name": "BIRIYANI BHAI",
+        "location": "Chinese, Biryani, Arabian, Beverages, Juices, Snacks, Burgers",
+        "rating": 4.1
+    },
+    {
+        "name": "Arcot Briyani",
+        "location": "Egmore",
+        "rating": 3.9
+    },
+    {
+        "name": "Behrouz Biryani",
+        "location": "Biryani, Pastas, Punjabi, Desserts, Beverages",
+        "rating": 4.2
+    },
+    {
+        "name": "Hyders Biriyani",
+        "location": "Purusaiwalkam",
+        "rating": 4.3
+    },
+    {
+        "name": "Darbar Kalyana Biryani",
+        "location": "Indian, Chinese, Tandoor, Biryani, Arabian, Seafood, Kebabs",
+        "rating": 3.8
+    },
+    {
+        "name": "Rizwan Biriyani and Kabab center",
+        "location": "Purasawalkam",
+        "rating": 4.2
+    },
+    {
+        "name": "Taibah",
+        "location": "Biryani, North Indian, Kebabs, Mughlai, Lucknowi, Hyderabadi, Desserts, Beverages",
+        "rating": 4.3
+    },
+    {
+        "name": "Amrin Biriyani",
+        "location": "Triplicane",
+        "rating": 4.1
+    },
+    {
+        "name": "Zahoor Biriyani",
+        "location": "Indian",
+        "rating": 4.2
+    },
+    {
+        "name": "Ar Rumman Restaurant",
+        "location": "Purasaiwakkam",
+        "rating": 4.1
+    },
+    {
+        "name": "hotel Kani virudhunagar biryani",
+        "location": "Biryani, Chinese",
+        "rating": "4 • "
+    },
+    {
+        "name": "So Biriyani Factory",
+        "location": "Purusaiwalkam",
+        "rating": 2.6
+    },
+    {
+        "name": "Kalima's Kerala Kitchen",
+        "location": "Biryani",
+        "rating": 4.4
+    },
+    {
+        "name": "Marlen Biryani Restaurant",
+        "location": "Purasaiwakkam",
+        "rating": "4 • "
+    },
+    {
+        "name": "Ullama'S Kebab",
+        "location": "Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",
+        "rating": 4.5
+    },
+    {
+        "name": "Biriyani and Kabab House",
+        "location": "Purusaiwalkam",
+        "rating": 3.7
+    },
+    {
+        "name": "Royal Cafe",
+        "location": "Chinese, Biryani",
+        "rating": 2.3
+    },
+    {
+        "name": "Food World",
+        "location": "PURASAIVAKKAM",
+        "rating": 2.9
+    },
+    {
+        "name": "Dhabba Express",
+        "location": "Biryani",
+        "rating": 4.3
+    },
+    {
+        "name": "Paneer Singh & Chicken Khurana",
+        "location": "Chennai Central",
+        "rating": "4 • "
+    },
+    {
+        "name": "INAARA'S KITCHEN",
+        "location": "Chinese, Biryani, Arabian, Barbecue, Fast Food",
+        "rating": 4.1
+    },
+    {
+        "name": "Pandia's Avenue",
+        "location": "Egmore",
+        "rating": 4.4
+    },
+    {
+        "name": "Gongura",
+        "location": "Biryani, Indian, Chinese, Tandoor, Snacks",
+        "rating": 4.1
+    },
+    {
+        "name": "Chennai Rahamather Briyani",
+        "location": "Purasawalkam",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel Sagar",
+        "location": "Chinese, Biryani, Fast Food, Burgers",
+        "rating": 4.2
+    },
+    {
+        "name": "Madurai royal briyani",
+        "location": "George Town",
+        "rating": 4.1
+    },
+    {
+        "name": "Aalim Biriyani Halal",
+        "location": "Chinese, Biryani",
+        "rating": 4.2
+    },
+    {
+        "name": "Star Biriyani and Fast Food",
+        "location": "George Town",
+        "rating": 4.3
+    },
+    {
+        "name": "Daal Rotti",
+        "location": "Biryani, North Indian, Chinese",
+        "rating": 4.4
+    },
+    {
+        "name": "Sachin Ka Dhabba",
+        "location": "Kilpauk",
+        "rating": 4.2
+    },
+    {
+        "name": "Lahm restaurant",
+        "location": "Biryani",
+        "rating": 2.2
+    },
+    {
+        "name": "Dheena boy biriyani",
+        "location": "Egmore",
+        "rating": 3.3
+    },
+    {
+        "name": "Hotel Sangam - Mount Road",
+        "location": "Biryani, Chinese, Fast Food",
+        "rating": 4.4
+    },
+    {
+        "name": "Althaf Food Court",
+        "location": "George Town",
+        "rating": 4.1
+    },
+    {
+        "name": "Ramesh Tiffen Center",
+        "location": "South Indian, Indian, Biryani",
+        "rating": 2.8
+    },
+    {
+        "name": "Potful - Claypot Biryanis",
+        "location": "Egmore",
+        "rating": 4.5
+    },
+    {
+        "name": "Pandi Briyani Hotel",
+        "location": "Indian, Chinese",
+        "rating": 3.9
+    },
+    {
+        "name": "Madras Biriyani",
+        "location": "Royapettah",
+        "rating": "4 • "
+    },
+    {
+        "name": "Cafe Amin",
+        "location": "Biryani, Chettinad, South Indian",
+        "rating": 4.5
+    },
+    {
+        "name": "Wholesome Bowlsome",
+        "location": "Egmore",
+        "rating": 4.6
+    },
+    {
+        "name": "SS Veetu Samayal",
+        "location": "Chinese, Biryani, Desserts, South Indian, Beverages, North Indian, Combos",
+        "rating": 4.6
+    },
+    {
+        "name": "AL Misbah Biryani",
+        "location": "Anna Salai",
+        "rating": 3.5
+    },
+    {
+        "name": "Biryani People - World of Biryanis",
+        "location": "Desserts, Tandoor, Kebabs, Haleem, Barbecue",
+        "rating": 4.6
+    },
+    {
+        "name": "Hotel Dhanalakshmi A1 Biriyani",
+        "location": "Royapettah",
+        "rating": 3.6
+    },
+    {
+        "name": "Biriyani Mubaarak",
+        "location": "Chinese, Biryani, Indian, Street Food, Fast Food",
+        "rating": 4.3
+    },
+    {
+        "name": "Arun Chettinad",
+        "location": "Kilpauk",
+        "rating": 4.3
+    },
+    {
+        "name": "INDIAN DHABA",
+        "location": "Chinese, Biryani, Indian, Tandoor",
+        "rating": 4.3
+    },
+    {
+        "name": "Sukkubhai Biryani",
+        "location": "Kilpauk",
+        "rating": 4.5
+    },
+    {
+        "name": "SS Muslim Briyani",
+        "location": "Chinese, Biryani, South Indian",
+        "rating": 4.1
+    },
+    {
+        "name": "Madurai Pandian Mess",
+        "location": "George Town",
+        "rating": 3.5
+    },
+    {
+        "name": "Bv'S Kitchen",
+        "location": "Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, Persian, Desserts",
+        "rating": "4 • "
+    },
+    {
+        "name": "Arafa Biryani & Fast Food And Bismilla Biryan",
+        "location": "Purusaiwalkam",
+        "rating": 3.2
+    },
+    {
+        "name": "Kayal Foods",
+        "location": "Biryani, South Indian",
+        "rating": 4.3
+    },
+    {
+        "name": "Deen Biryani",
+        "location": "George Town",
+        "rating": "4 • "
+    },
+    {
+        "name": "Maharaja Unavagam",
+        "location": "Biryani, South Indian, Fast Food",
+        "rating": 4.2
+    },
+    {
+        "name": "New Sun Fast Food",
+        "location": "Egmore",
+        "rating": 4.2
+    },
+    {
+        "name": "Milan Rushi Fast Food",
+        "location": "Biryani, Kebabs",
+        "rating": 4.5
+    },
+    {
+        "name": "Smoky Curve",
+        "location": "Royapettah",
+        "rating": 4.4
+    },
+    {
+        "name": "Mom's Kitchen",
+        "location": "Biryani, Tandoor, Barbecue, Mughlai, Awadhi, North Indian, Kebabs",
+        "rating": 4.4
+    },
+    {
+        "name": "Hanifa Restaurant",
+        "location": "Egmore",
+        "rating": 4.2
+    },
+    {
+        "name": "BBQ Mafia",
+        "location": "Biryani",
+        "rating": 3.9
+    },
+    {
+        "name": "Green Pepper",
+        "location": "Triplicane",
+        "rating": "4 • "
+    },
+    {
+        "name": "Luha Biryani",
+        "location": "Indian",
+        "rating": 3.9
+    },
+    {
+        "name": "Pepe's",
+        "location": "Royapettah",
+        "rating": 4.1
+    },
+    {
+        "name": "Exotic Food Company - EFC",
+        "location": "Indian, Biryani, Snacks",
+        "rating": "4 • "
+    },
+    {
+        "name": "Malabar Biriyani Center",
+        "location": "Purasaiwakkam",
+        "rating": 4.3
+    },
+    {
+        "name": "Steak House Tondiarpet",
+        "location": "Biryani, Chinese",
+        "rating": 3.5
+    },
+    {
+        "name": "Kutta Magic Chicken Park",
+        "location": "George Town",
+        "rating": "4 • "
+    },
+    {
+        "name": "ALIBABA SHAWARMA AND 40 DISHES",
+        "location": "Indian, Chinese",
+        "rating": "4 • "
+    },
+    {
+        "name": "Dosthu Thoothukudi parotta",
+        "location": "Purasawalkam",
+        "rating": 3.9
+    },
+    {
+        "name": "Anburaj Briyani",
+        "location": "Kerala, Biryani, Chinese, Snacks",
+        "rating": 3.6
+    },
+    {
+        "name": "Zeal Corner",
+        "location": "Thousand Lights",
+        "rating": 4.2
+    },
+    {
+        "name": "Riyas briyani",
+        "location": "Chinese, Biryani, Korean",
+        "rating": 4.3
+    },
+    {
+        "name": "Riyal Moideen Biriyani",
+        "location": "Chetpet",
+        "rating": 4.2
+    },
+    {
+        "name": "Yaa Mohaideen Biryani",
+        "location": "Biryani, South Indian, Hyderabadi, Arabian, Grill, Sweets, Tandoor, Street Food, Haleem, Fast Food",
+        "rating": 4.2
+    },
+    {
+        "name": "Anbu Military Hotel",
+        "location": "Royapettah",
+        "rating": 4.1
+    },
+    {
+        "name": "Dum Safar Biryani",
+        "location": "Biryani",
+        "rating": 3.9
+    },
+    {
+        "name": "The Residency Towers",
+        "location": "Royapettah",
+        "rating": 4.8
+    },
+    {
+        "name": "UBQ-Meals,Thalis & Bowls",
+        "location": "Burgers",
+        "rating": 3.8
+    }
+]
