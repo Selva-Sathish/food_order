@@ -1,5 +1,6 @@
 import bcrypt from 'bcrypt';
 import { getPool } from '../config/db.js';
+import {getUserByUsername} from '../service/user.js';
 
 export const hashPassword = async (password) => {
     let saltrounds = 10;
@@ -7,7 +8,7 @@ export const hashPassword = async (password) => {
 }
 
 
-async function getUserHashedPassword(username){
+export async function getUserHashedPassword(username){
     if (!username){
         return null;
     }
@@ -17,14 +18,4 @@ async function getUserHashedPassword(username){
     )
 
     return row?.[0]?.password ?? null; 
-}
-
-export const checkPassword = async (username, plainPassword) => {
-    const hashedPassword = await getUserHashedPassword(username);
-    if(!hashedPassword){
-        console.log("user not found");
-        return false;
-    }
-
-    return await bcrypt.compare(plainPassword, hashPassword);
 }

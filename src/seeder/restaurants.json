@@ -1,0 +1,502 @@
+[
+  {
+    "companyName": "Auer Group",
+    "address": "65263 Beech Road Suite 441",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Bartell and Sons",
+    "address": "29446 Lola Flats Apt. 325",
+    "rating": 3.4
+  },
+  {
+    "companyName": "Vandervort, Hand and Gerhold",
+    "address": "1798 Grimes Centers Apt. 609",
+    "rating": 3.7
+  },
+  {
+    "companyName": "Goldner Inc",
+    "address": "7313 Kohler Terrace Apt. 672",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Jacobs - Bednar",
+    "address": "10258 Baron Hill Suite 424",
+    "rating": 3.7
+  },
+  {
+    "companyName": "Braun, Murray and Braun",
+    "address": "49911 Yesenia Tunnel Apt. 206",
+    "rating": 3.8
+  },
+  {
+    "companyName": "McLaughlin - Jacobson",
+    "address": "7997 E Broadway Street Apt. 667",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Howell, Keebler and Konopelski",
+    "address": "9782 Janis Radial Apt. 973",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Stanton Inc",
+    "address": "24507 Rohan Mission Suite 321",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Fritsch and Sons",
+    "address": "576 Hayes Overpass Suite 878",
+    "rating": 3.7
+  },
+  {
+    "companyName": "Armstrong, Kessler and Wilkinson",
+    "address": "1930 Collier Ridge Apt. 933",
+    "rating": 4.1
+  },
+  {
+    "companyName": "Rohan, Wilderman and Graham",
+    "address": "84533 Avenue Road Suite 554",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Dicki, Kulas and Morar",
+    "address": "8166 Bath Road Apt. 509",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Bernier and Sons",
+    "address": "7527 Javier Club Apt. 647",
+    "rating": 3.6
+  },
+  {
+    "companyName": "Nader - Gulgowski",
+    "address": "35188 Karen Rapid Suite 412",
+    "rating": 3.5
+  },
+  {
+    "companyName": "Yost, Bechtelar and McClure",
+    "address": "5637 Alvera Circle Suite 203",
+    "rating": 3.5
+  },
+  {
+    "companyName": "Heller Inc",
+    "address": "3932 Hillside Avenue Apt. 616",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Fadel Group",
+    "address": "29822 Misael Meadow Apt. 834",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Bernier Inc",
+    "address": "5059 Schiller Stravenue Suite 289",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Sporer and Sons",
+    "address": "98457 Sam Haven Suite 944",
+    "rating": 3.9
+  },
+  {
+    "companyName": "Abbott and Sons",
+    "address": "42159 Gutmann Turnpike Apt. 382",
+    "rating": 3.4
+  },
+  {
+    "companyName": "Pacocha and Sons",
+    "address": "816 Kunze Neck Apt. 242",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Harber Inc",
+    "address": "22327 Amelie Parkway Apt. 458",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Schmitt LLC",
+    "address": "5351 Micaela Common Suite 948",
+    "rating": 3.7
+  },
+  {
+    "companyName": "Lehner - Langworth",
+    "address": "61190 Bonnie Forge Suite 341",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Schowalter, Lubowitz and Koelpin",
+    "address": "92506 Maggio Park Suite 438",
+    "rating": 4.1
+  },
+  {
+    "companyName": "Goyette, Marquardt and Ryan",
+    "address": "8542 Tomasa Isle Suite 584",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Quigley Group",
+    "address": "8692 E 1st Street Apt. 519",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Green, Huels and Homenick",
+    "address": "176 Lincoln Avenue Apt. 580",
+    "rating": 4.7
+  },
+  {
+    "companyName": "Hermiston, Cassin and Zemlak",
+    "address": "880 Daphney Track Apt. 623",
+    "rating": 4.4
+  },
+  {
+    "companyName": "Hagenes, D'Amore and Anderson",
+    "address": "21684 Kunde Expressway Apt. 802",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Miller - Trantow",
+    "address": "8620 Layne Bypass Apt. 899",
+    "rating": 3.9
+  },
+  {
+    "companyName": "Ledner, Toy and Ward",
+    "address": "539 Bernhard Extension Apt. 339",
+    "rating": 3.5
+  },
+  {
+    "companyName": "Lowe Group",
+    "address": "23769 Milton Street Apt. 291",
+    "rating": 4
+  },
+  {
+    "companyName": "Lowe - Breitenberg",
+    "address": "372 S Monroe Street Apt. 767",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Schroeder, Homenick and Armstrong",
+    "address": "413 Lizzie Dam Apt. 557",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Lind, Satterfield and Spencer",
+    "address": "40251 N Jackson Street Suite 767",
+    "rating": 4.1
+  },
+  {
+    "companyName": "Bergstrom, Skiles and Kozey",
+    "address": "24626 E 8th Street Apt. 254",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Oberbrunner Group",
+    "address": "41751 Fritsch Junctions Suite 849",
+    "rating": 4.8
+  },
+  {
+    "companyName": "Lowe, West and Beahan",
+    "address": "48373 Laron Station Apt. 363",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Mayer - Hoeger",
+    "address": "2952 Maxine Rue Suite 417",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Sipes, Bogisich and Wisoky",
+    "address": "5550 Dooley Park Suite 340",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Donnelly, Skiles and Walsh",
+    "address": "21780 Noemie Row Apt. 261",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Hills, Graham and Batz",
+    "address": "7079 Meagan Vista Suite 303",
+    "rating": 4
+  },
+  {
+    "companyName": "Christiansen - Monahan",
+    "address": "8937 Riverside Drive Suite 402",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Doyle - Schuppe",
+    "address": "534 Windler Courts Apt. 688",
+    "rating": 4
+  },
+  {
+    "companyName": "Rippin - Kuphal",
+    "address": "4056 Herman Ferry Apt. 655",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Parker Inc",
+    "address": "5248 E Water Street Suite 355",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Miller - Keebler",
+    "address": "1649 Boehm Hills Suite 363",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Murazik - Volkman",
+    "address": "1883 Windler Rue Apt. 714",
+    "rating": 3
+  },
+  {
+    "companyName": "Renner LLC",
+    "address": "20031 Effertz Highway Apt. 809",
+    "rating": 3.5
+  },
+  {
+    "companyName": "Goyette, Koch and Stehr",
+    "address": "9845 Ransom Burg Apt. 968",
+    "rating": 4.2
+  },
+  {
+    "companyName": "Stamm, Stoltenberg and Rogahn",
+    "address": "819 Lane Gardens Suite 994",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Crooks - Ruecker",
+    "address": "296 Stroman Village Suite 844",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Larson - Anderson",
+    "address": "54339 Riverside Avenue Apt. 174",
+    "rating": 3
+  },
+  {
+    "companyName": "Zieme, Emmerich and Hand",
+    "address": "48615 W North Street Suite 432",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Barton, Ebert and Pfeffer",
+    "address": "1908 Pouros Island Suite 953",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Runte - Kutch",
+    "address": "89238 Windsor Avenue Suite 282",
+    "rating": 3.8
+  },
+  {
+    "companyName": "Altenwerth - Abernathy",
+    "address": "77443 Edward Street Suite 931",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Kunze LLC",
+    "address": "819 Ruecker Radial Apt. 139",
+    "rating": 4.7
+  },
+  {
+    "companyName": "Osinski - Rohan",
+    "address": "2359 N 4th Street Apt. 219",
+    "rating": 3.4
+  },
+  {
+    "companyName": "Mante LLC",
+    "address": "71801 Wren Close Apt. 156",
+    "rating": 3.5
+  },
+  {
+    "companyName": "Walter LLC",
+    "address": "73162 Tremblay Shoals Apt. 434",
+    "rating": 3.6
+  },
+  {
+    "companyName": "Howell LLC",
+    "address": "220 Hettinger Street Suite 904",
+    "rating": 3.4
+  },
+  {
+    "companyName": "Quitzon - Wiza",
+    "address": "1432 Satterfield Plaza Suite 978",
+    "rating": 4.7
+  },
+  {
+    "companyName": "Skiles and Sons",
+    "address": "15580 N Poplar Street Suite 623",
+    "rating": 3.6
+  },
+  {
+    "companyName": "Nikolaus - Schoen",
+    "address": "744 Schroeder Trace Apt. 257",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Luettgen, Rohan and Heidenreich",
+    "address": "879 Harold Gateway Apt. 993",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Ziemann, Hills and Schmidt",
+    "address": "4478 Kestrel Close Apt. 790",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Stoltenberg - Runte",
+    "address": "407 Avenue Road Apt. 884",
+    "rating": 3.4
+  },
+  {
+    "companyName": "O'Keefe, Hansen and Grant",
+    "address": "8651 Lakin Place Apt. 803",
+    "rating": 4.2
+  },
+  {
+    "companyName": "Zieme - Schaden",
+    "address": "99187 Melisa Glen Suite 789",
+    "rating": 4.1
+  },
+  {
+    "companyName": "Wisoky LLC",
+    "address": "3674 Weber Unions Suite 912",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Schaefer and Sons",
+    "address": "80527 College Avenue Suite 883",
+    "rating": 4.4
+  },
+  {
+    "companyName": "Gibson - Jacobi",
+    "address": "255 Pleasant Street Apt. 921",
+    "rating": 3
+  },
+  {
+    "companyName": "Hintz - Howell",
+    "address": "6150 Muller Crescent Apt. 209",
+    "rating": 4.2
+  },
+  {
+    "companyName": "Hilll - Conroy",
+    "address": "932 3rd Avenue Suite 190",
+    "rating": 4.8
+  },
+  {
+    "companyName": "Abernathy and Sons",
+    "address": "22357 Hoppe Neck Suite 984",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Ratke, Jacobi and Goldner",
+    "address": "22002 High Street Suite 389",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Bechtelar Inc",
+    "address": "76301 Crona Ways Suite 280",
+    "rating": 3.9
+  },
+  {
+    "companyName": "Kessler, Goodwin and Buckridge",
+    "address": "83051 Denesik Dam Suite 915",
+    "rating": 4.2
+  },
+  {
+    "companyName": "Bernhard LLC",
+    "address": "600 Alexandra Path Apt. 419",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Haag, Mraz and Mayer",
+    "address": "68516 Vivienne Ford Suite 110",
+    "rating": 5
+  },
+  {
+    "companyName": "Jacobson Group",
+    "address": "5770 Stanley Glens Suite 816",
+    "rating": 4.4
+  },
+  {
+    "companyName": "Auer - Cormier",
+    "address": "936 Stephany Spur Suite 330",
+    "rating": 4.6
+  },
+  {
+    "companyName": "Greenholt - Rice",
+    "address": "581 Maple Drive Apt. 909",
+    "rating": 3.3
+  },
+  {
+    "companyName": "Cormier and Sons",
+    "address": "88937 E Elm Street Suite 891",
+    "rating": 4.5
+  },
+  {
+    "companyName": "Prohaska and Sons",
+    "address": "57692 S Mill Street Apt. 729",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Reichert - Lang",
+    "address": "8172 Will Brooks Suite 368",
+    "rating": 4.4
+  },
+  {
+    "companyName": "Weimann - Rogahn",
+    "address": "192 Ansley Camp Suite 190",
+    "rating": 4
+  },
+  {
+    "companyName": "Langworth - Lesch",
+    "address": "88009 Camilla Lights Suite 205",
+    "rating": 3.6
+  },
+  {
+    "companyName": "Kunde and Sons",
+    "address": "473 Bradford Ridge Apt. 316",
+    "rating": 3.4
+  },
+  {
+    "companyName": "Macejkovic LLC",
+    "address": "7834 Herzog Lane Suite 279",
+    "rating": 3.1
+  },
+  {
+    "companyName": "Luettgen - Wilderman",
+    "address": "5819 9th Street Apt. 847",
+    "rating": 4.8
+  },
+  {
+    "companyName": "Schimmel, Stracke and Vandervort",
+    "address": "5919 Prospect Road Apt. 724",
+    "rating": 3.9
+  },
+  {
+    "companyName": "Kemmer LLC",
+    "address": "15658 Darian Divide Apt. 309",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Tremblay and Sons",
+    "address": "51377 11th Street Apt. 790",
+    "rating": 4.8
+  },
+  {
+    "companyName": "Hilll and Sons",
+    "address": "7290 E Oak Street Apt. 627",
+    "rating": 4.3
+  },
+  {
+    "companyName": "Heller, Satterfield and Ryan",
+    "address": "49283 Buckridge Highway Suite 940",
+    "rating": 4.9
+  },
+  {
+    "companyName": "Harber - Bartell",
+    "address": "434 E Jackson Street Suite 380",
+    "rating": 3.5
+  }
+]
