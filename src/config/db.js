@@ -7,10 +7,11 @@ let pool;
 
 export const connectDB = async () => {
     pool = mysql.createPool({
-        host: process.env.DB_HOST || 'localhost',
-        password: process.env.DB_PASSWORD || '',
-        user: process.env.DB_USER || 'root',
-        database: process.env.DB_NAME || 'food',
+        uri:"mysql://root:UTbFBFhkqnsiOlBUIwwCUGAAYChBtvZi@switchback.proxy.rlwy.net:48588/railway",
+        // host: process.env.DB_HOST || 'localhost',
+        // password: process.env.DB_PASSWORD || '',
+        // user: process.env.DB_USER || 'root',
+        // database: process.env.DB_NAME || 'food',
         waitForConnections: true,
         connectionLimit: 10,
         queueLimit: 0
