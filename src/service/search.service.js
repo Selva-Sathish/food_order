@@ -10,10 +10,10 @@ export const searchDishes = async (name, minPrice, maxPrice) => {
       r.address AS city,
       mi.name AS dishName,
       mi.price AS dishPrice,
-      COUNT(oi.id) AS orderCount
-    FROM menu_items mi
-    JOIN restaurants r ON mi.restaurant_id = r.id
-    LEFT JOIN order_items oi ON oi.menu_item_id = mi.id
+      mi.order_count AS orderCount
+      FROM menu_items mi
+      JOIN restaurants r ON mi.restaurant_id = r.id
+    LEFT JOIN order_items oi ON oi.menu_id = mi.id
     WHERE 1=1
   `;
 

@@ -1,6 +1,6 @@
-CREATE DATABASE food;
+-- CREATE DATABASE food;
 
-USE food;
+-- USE food;
 
 START TRANSACTION;
 
