@@ -2,7 +2,7 @@ import { getPool } from "../config/db.js";
 
 export const searchDishes = async (name, minPrice, maxPrice) => {
   const pool = getPool();
-
+  console.log("pool is defined or not ", pool);
   let query = `
     SELECT 
       r.id AS restaurantId,
