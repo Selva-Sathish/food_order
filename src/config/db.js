@@ -14,7 +14,10 @@ export const connectDB = async () => {
         // database: process.env.DB_NAME || 'food',
         waitForConnections: true,
         connectionLimit: 10,
-        queueLimit: 0
+        queueLimit: 0,
+        ssl: {
+            rejectUnauthorized: false,  // Railway requires this
+        }
     });
 
     console.log("MySQL Pool connected");
