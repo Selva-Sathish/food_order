@@ -54,12 +54,12 @@ npm install
 ### 3️⃣ Add environment variables
 Create a `.env` file:
 ```
-DB_HOST=localhost
-DB_USER=sathish
-DB_PASSWORD=sathish@123
-DB_NAME=food
-DB_PORT=3306
-PORT=3000
+DB_HOST
+DB_USER
+DB_PASSWORD
+DB_NAME
+DB_PORT
+PORT
 ```
 
 ### 4️⃣ Create the database
