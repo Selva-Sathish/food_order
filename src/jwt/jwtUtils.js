@@ -9,7 +9,7 @@ export async function refreshTokenHandler(req, res){
 
     jwt.verify(token, process.env.JWT_SECRET, (err, decode) => {
         if(err){
-            return res.status(403).json({ message: 'Invalid or expired refresh token' })
+            return res.status(401).json({ message: 'Invalid or expired refresh token' })
         }
 
         const newAccessToken = jwt.sign(

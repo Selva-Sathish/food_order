@@ -6,11 +6,13 @@ import { getUserHashedPassword } from '../utils/password.js';
 export async function createUser(username, password, mobile = null, address = null){
     try{
         const hashedPassword = await hashPassword(password);
+        
+        
         const [ result ] = await getPool().query(
-            `INSERT INTO users (username, password, mobile, address) VALUE (?, ?, ?, ?)`,
+            `INSERT INTO users (username, password, mobile, address) VALUES (?, ?, ?, ?)`,
             [username, hashedPassword, mobile, address]
         );
-        
+        console.log("result :", result);
         if(result.affectedRows == 1)
             return ServiceResponse.success({},"user account create successfully");
         
@@ -18,12 +20,14 @@ export async function createUser(username, password, mobile = null, address = nu
     }
     
     catch (err){
-        return ServiceResponse.fail("Insertion Failed", 400, err);
+        console.log(err)
+        return ServiceResponse.fail(err.message || "Insertion Failed", 400, err);
     }
 }
 
 
 export async function getUserByUsername(username) {
+    
     const [ row ] = await getPool().query(
         `SELECT username, address, mobile from users where username = ? LIMIT 1`,
         [username]

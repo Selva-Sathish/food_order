@@ -1,4 +1,4 @@
-import { getUserByID, getUserByUsername, createUser } from '../service/user.js';
+import { getUserByID, createUser } from '../service/user.js';
 
 
 export const register = async (req, res) => {
