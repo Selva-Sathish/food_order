@@ -61,3 +61,40 @@ export async function myOrdersService(userId) {
         return ServiceResponse.fail(error.message || "Error Occurred", 404, error);
     }
 }
+
+/**
+ * Check if the item exists in the cart or not 
+ * @param {int} menu_id 
+ * @param {int} userId 
+ * @returns {boolean}
+ */
+async function isExistItemInCart(menu_id, userId){
+    const [res] = await getPool().query(
+        `SELECT id from cart WHERE user_id = ? AND menu_id = ?`,
+        [userId, menu_id]
+    );
+
+    if(row.length > 0) return true;
+
+    return false;
+}
+
+export async function addToCartService(menuList, userId){
+    const {menu_id, quantity} = menuList;
+    try {
+
+        if(isExistItemInCart(menu_id, userId)){
+            return ServiceResponse.fail("Item already in the cart", 200, null);
+        }
+        const response = await getPool().query(
+            `INSERT INTO cart(user_id, menu_id, quantity) VALUES 
+            (?, ?, ?)
+            `,
+            [userId, menu_id, quantity]
+        )
+
+        return ServiceResponse.success(response.insertId, "Successfully added to the cart");
+    } catch (error) {
+        return ServiceResponse.fail(error.sqlMessage || error.message || "Internal server error", 404, error);
+    }
+}

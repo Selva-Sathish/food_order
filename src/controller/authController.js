@@ -5,15 +5,19 @@ export const login = async (req, res) => {
 
     const logincheck = await loginService(username, password);
     
-    if(logincheck.success){
-        res.cookie("refreshToken", logincheck.data.accesstoken, {
+    if (logincheck.success) {
+        res.cookie("refreshToken", logincheck.data.refreshToken, {
             httpOnly: true,
-            secure: false,
+            secure: false, 
             sameSite: "Strict",
             maxAge: 90 * 24 * 60 * 60 * 1000
-        })
-        res.status(200).json({ refreshtoken: logincheck.data.refreshtoken });
+        });
+
+        return res.status(200).json({
+            accessToken: logincheck.data.accessToken
+        });
     }
+
 
     return res.status(logincheck.status).json({message : logincheck.message});
 }

@@ -27,12 +27,10 @@ export async function createUser(username, password, mobile = null, address = nu
 
 
 export async function getUserByUsername(username) {
-    
     const [ row ] = await getPool().query(
         `SELECT username, address, mobile from users where username = ? LIMIT 1`,
         [username]
     )
-
     if(!row){
         return null;
     }

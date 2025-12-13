@@ -11,7 +11,7 @@ export const loginService = async (username, password) => {
     const accessToken = await createToken(username, "access");
     const refreshToken = await createToken(username, "refresh");
     
-    return ServiceResponse.success({accesstoken: accessToken, refreshtoken: refreshToken}, "login successful");
+    return ServiceResponse.success({ accessToken,  refreshToken}, "login successful");
 }
 
 export const registerService = async (payload) => {
@@ -19,4 +19,3 @@ export const registerService = async (payload) => {
     const create = await createUser(username, password, mobile, address);
     return create;
 }
-
