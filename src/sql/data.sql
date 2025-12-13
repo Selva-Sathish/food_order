@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS order_items (
     order_id INT NOT NULL,
     menu_id INT NOT NULL,
     quantity INT NOT NULL DEFAULT 1,
-    price DECIMAL(10, 2), 
+    price DECIMAL(10, 2) NOT NULL, 
     FOREIGN KEY (order_id) REFERENCES orders(id),
     FOREIGN KEY (menu_id) REFERENCES menu_items(id)
 );

@@ -28,8 +28,20 @@ async function generateSchema() {
                 FOREIGN KEY (restaurant_id) REFERENCES restaurants(id) 
             );`
         )
+
+        await conn.query(
+            `CREATE TABLE IF NOT EXISTS cart (
+                id INT PRIMARY KEY AUTO_INCREMENT,
+                user_id INT NOT NULL, 
+                menu_id INT NOT NULL,
+                quantity INT NOT NULL DEFAULT 1,
+                UNIQUE (user_id, menu_id),
+                FOREIGN KEY (user_id) REFERENCES users(id),
+                FOREIGN KEY (menu_id) REFERENCES menu_items(id)
+            );`
+        );
         console.log(
-            "menu item table was created."
+            "cart table was created."
         )
 
         await conn.query(
@@ -55,6 +67,7 @@ async function generateSchema() {
                 order_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 delivery_status ENUM('Pending', 'Preparing', 'Out for Delivery', 'Delivered', 'Cancelled') 
                     DEFAULT 'Pending',
+                total_amount DECIMAL(10,2) NOT NULL,
                 FOREIGN KEY (user_id) REFERENCES users(id)
             );`
         )
@@ -68,6 +81,7 @@ async function generateSchema() {
                 order_id INT NOT NULL,
                 menu_id INT NOT NULL,
                 quantity INT NOT NULL DEFAULT 1,
+                price DECIMAL(10, 2) NOT NULL,
                 FOREIGN KEY (order_id) REFERENCES orders(id),
                 FOREIGN KEY (menu_id) REFERENCES menu_items(id)
             );`
